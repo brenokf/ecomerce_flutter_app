@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "349630682344",
+    "firebase_url": "https://ecomerceshop-6b3ea.firebaseio.com",
+    "project_id": "ecomerceshop-6b3ea",
+    "storage_bucket": "ecomerceshop-6b3ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349630682344:android:ad9677296e94d8e8f1255d",
+        "android_client_info": {
+          "package_name": "com.ecomerceapp.ecomerce_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349630682344-evu0rmdt524u6k4vjpbjk0v41li3fs1a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ecomerceapp.ecomerce_flutter_app",
+            "certificate_hash": "9a8cda8cd56987de0f3fbb564041584e66e1b732"
+          }
+        },
+        {
+          "client_id": "349630682344-n4cm7ba48hdra95k6jfvbq8ubfa84avq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx1oBNuxytSwgltF9KxUWr3CSyHIFWK24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349630682344-n4cm7ba48hdra95k6jfvbq8ubfa84avq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
